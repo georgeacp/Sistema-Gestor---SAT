@@ -8,7 +8,6 @@ Para clonar este proyecto usa:
 
 ```
 git clone https://github.com/georgeacp/react-app.git
-
 ```
 Ahora entra a la carpeta del proyecto.
 ```
@@ -19,7 +18,7 @@ Instalacion de dependencias.
 ```
 npm install 
 ```
-Para corer el proyecto.
+Para correr el proyecto.
 
 ```
 npm run dev
