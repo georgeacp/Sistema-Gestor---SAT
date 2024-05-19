@@ -24,3 +24,21 @@ Para corer el proyecto.
 ```
 npm run dev
 ```
+
+## Imagenes
+
+![Imagen_de_Infractores](https://raw.githubusercontent.com/georgeacp/Sistema-Gestor-SAT/main/screenshot/img-1.png)
+
+![Imagen_de_Encargados](https://raw.githubusercontent.com/georgeacp/Sistema-Gestor-SAT/main/screenshot/img-2.png)
+
+![Imagen_de_Multas](https://raw.githubusercontent.com/georgeacp/Sistema-Gestor-SAT/main/screenshot/img-2.png)
+
+
+## Demo
+
+Prueba el proyecto:
+
+```
+https://sistema-gestor-sat.onrender.com
+```
+
