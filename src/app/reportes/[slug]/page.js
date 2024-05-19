@@ -18,7 +18,7 @@ export default async function page({ params }) {
 
     return (
         <section className="bg-white p-4 rounded-lg">
-            <h2 className="">HOLA</h2>
+            <h2 className="">Infractores</h2>
             <div className="grid grid-cols-6 gap-x-4 gap-y-8">
                 <Input_selector data={data_infractor} selection={data[0].dni_infractor} />
                 <Input_disable type="text" placeholder="Nombres" className="col-span-2" id="nombre" value={data[0].nombreinfractor} />

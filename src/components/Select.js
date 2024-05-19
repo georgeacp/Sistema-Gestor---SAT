@@ -1,4 +1,4 @@
-import { getEncargado, getInfractores } from "@/data/supabase";
+import { getInfractores } from "@/data/supabase";
 
 export default async function Select({ id, name, className }) {
     const data_infractor = await getInfractores();
