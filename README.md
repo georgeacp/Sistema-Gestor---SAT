@@ -1,3 +1,7 @@
+# SISTEMA GESTION - SAT
+
+Sistema de gestión de facturas y papeletas con el objetivo de registrar y gestionar de manera eficiente las transacciones financieras y las infracciones de tránsito. 
+
 ## INSTALACION
 
 Para clonar este proyecto usa:
